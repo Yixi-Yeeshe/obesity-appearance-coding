@@ -21,7 +21,7 @@ OPTIONS = [
     "6. literal description",
     "7. euphemistic description",
     "8. aestheticized description",
-    "9. addressing people living with overweight or obesity",
+    "9. Labeling/addressing people living with overweight or obesity",
     "10. ambiguous, hard to classify"
 ]
 
