@@ -22,8 +22,7 @@ OPTIONS = [
     "7. euphemistic description",
     "8. aestheticized description",
     "9. addressing people living with overweight or obesity",
-    "10. viwer judgement regarding obesity appearance",
-    "11. ambiguous, hard to classify"
+    "10. ambiguous, hard to classify"
 ]
 
 S_COLUMNS = [f"S{i}" for i in range(1, 9)]
